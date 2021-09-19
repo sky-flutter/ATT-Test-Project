@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "550210191255",
+    "project_id": "bdm-app-f8ff6",
+    "storage_bucket": "bdm-app-f8ff6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550210191255:android:5e9505423d2f834aa08ed2",
+        "android_client_info": {
+          "package_name": "com.example.test_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550210191255-eeg1b9cfsr0m9sbsug8qf8i2h9ui6evj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcwV684TuS1SQPiMZseD5r5kw50fj9qag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550210191255-eeg1b9cfsr0m9sbsug8qf8i2h9ui6evj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
